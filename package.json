@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "uuid": "^3.3.2",
-    "validator": "^10.9.0",
+    "validator": "^13.7.0",
     "zapier-platform-core": "7.4.0"
   },
   "devDependencies": {
